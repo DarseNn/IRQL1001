@@ -3,7 +3,7 @@ Fear of truth is justified by desire
 
 
 
-Установка в термукс
+Установка
 
 pkg install git
 
